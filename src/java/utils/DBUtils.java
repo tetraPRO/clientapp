@@ -25,7 +25,7 @@ public class DBUtils implements DBConnect{
     
     private static final String url = "jdbc:mysql://localhost:3306/clients?autoReconnect=true&useSSL=false";
     private static final String uname = "tetrapro";
-    private final String upass = "Lacrosse13!";
+    private final String upass = ;
     private Connection connection;
 
     /**
